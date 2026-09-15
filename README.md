@@ -9,15 +9,15 @@ Es fa des d'una perspectiva àmplia, tenint en compte conceptes tècnics, situan
 
 En aquest repositori de GitHub trobareu:
 
-- Una [guia per crear o copiar agents de Microsoft Copilot Xat](./Intruccions%20creació%20agents%20Copilot%20-%20versió%20inicial%202026-09.pdf)
+- Una [guia per crear o copiar agents de Microsoft Copilot Xat](./Intruccions%20creació%20agents%20Copilot%20-%20versió%20inicial%202026-09.pdf).
 
-- Una [guia per fer servir l'assistent per al CQS del  Servei d'Autorització d'Instal·lacions Elèctriques de Producció](./Intruccions%20assistent%20CQS%20-%20versió%20inicial%202026-09.pdf)
+- Una [guia per fer servir l'assistent per al CQS del  Servei d'Autorització d'Instal·lacions Elèctriques de Producció](./Intruccions%20assistent%20CQS%20-%20versió%20inicial%202026-09.pdf).
 
 - Les instruccions dels agents creats, tant exemples bons com millorables. Teniu una explicació [aquí](./instruccions_agents/README.md).
 
 - També teniu una [descripció de l'agent de resposta a consultes del CQS](./Assistent_CQS_SAIEP.md), per tal que el pugueu copiar.
 
-- Codi que s'ha fet servir per [altres tasques](./altres_tasques/).
+- Codi que s'ha fet servir per [altres tasques](./altres_tasques/README.md).
 
 ## Autors
 

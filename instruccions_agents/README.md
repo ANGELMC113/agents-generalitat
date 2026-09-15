@@ -2,7 +2,7 @@
 
 En aquest arxiu es llisten els diferents documents amb instruccions per a agents de Copilot Xat.
 
-[Prem aquí per tornar a la pàgina principal.](../README.md)
+[Feu clic aquí per tornar a l'inici.](../README.md)
 
 ## Instruccions definitives
 
