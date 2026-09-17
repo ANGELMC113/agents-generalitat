@@ -29,4 +29,4 @@ Amb col·laboració de:
 
 - Servei d'Autorització d'Instal·lacions Elèctriques de Producció
 
-    - Agraïments en especial al Carles Tarragó, a la Míriam Ripoll, a l'Àlex Bisquert, a l'Anna Queralt i a la Maria Mercedes
+    - Agraïments en especial al Carles Cardiel, a la Míriam Ripoll, a l'Àlex Bisquert, a l'Anna Queralt i a la Maria Mercedes
