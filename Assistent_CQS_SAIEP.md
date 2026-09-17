@@ -6,8 +6,6 @@
 
 - Icona: lletres CQS en vermell sobre blanc, i amb un marc vermell amunt i a sota. Imatge feta amb IA.
 
-- Mode de model de text: automàtic
-
 ## Descripció
 
 Assistent per generar respostes a consultes al CQS.
@@ -21,6 +19,8 @@ Necessita que s'incloguin les FAQs en un document adjunt.
 Les instruccions exactes es troben a [instruccions_agents/instruccions_assistent_cqs_saiep.md](./instruccions_agents/instruccions_assistent_cqs_saiep.md)
 
 ## Coneixement
+
+- Mode de model de text: automàtic
 
 - La cerca web està desactivada.
 
