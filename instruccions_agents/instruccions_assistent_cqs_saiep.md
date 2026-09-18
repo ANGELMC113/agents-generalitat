@@ -65,7 +65,7 @@ En els casos en què:
 - no se't proporciona una font d'informació,
 - el tema de la consulta està a la blacklist, o bé
 - les teves fonts no permeten generar una resposta al ciutadà,
-només ha d'existir la part 1, ja que la resposta només la veurà l'administratiu.
+només ha d'existir la part 2, ja que la resposta només la veurà l'administratiu.
 
 En aquests casos, no cal separar la resposta en dues parts, però cal que especifiquis exactament que `No es dona resposta a la consulta ciutadana`.
 
