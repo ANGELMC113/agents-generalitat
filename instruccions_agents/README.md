@@ -43,6 +43,14 @@ En proporcionar-li una FAQ i demanar-li que la millori, fa la resposta més ente
 
 [./instruccions_reescriptor_faqs.md](./instruccions_reescriptor_faqs.md)
 
+### Assistent de creació de carpetes
+
+Aquest assistent permet crear un seguit de directoris.
+
+Es dona una llista d'elements i l'assistent indica com obrir PowerShell i proporciona la comanda mkdir que genera els directoris.
+
+[./instruccions_creador_carpetes.md](./instruccions_creador_carpetes.md)
+
 ## Proves inicials i instruccions millorables
 
 Aquestes són les que s'han provat, però han donat resultats dolents o millorables. Totes són per a l'assistent de consultes de CQS en versions o enfocaments anteriors.
